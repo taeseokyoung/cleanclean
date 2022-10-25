@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/clean_spa/static/css/main.ca899bcb.css",
+    "main.js": "/clean_spa/static/js/main.e1494538.js",
+    "static/media/main_slider01.jpg": "/clean_spa/static/media/main_slider01.9862c76e15c6aa43aa3e.jpg",
+    "static/media/icon_set_w.png": "/clean_spa/static/media/icon_set_w.00a407c645ac5e8e472f.png",
+    "index.html": "/clean_spa/index.html",
+    "main.ca899bcb.css.map": "/clean_spa/static/css/main.ca899bcb.css.map",
+    "main.e1494538.js.map": "/clean_spa/static/js/main.e1494538.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca899bcb.css",
+    "static/js/main.e1494538.js"
+  ]
+}
